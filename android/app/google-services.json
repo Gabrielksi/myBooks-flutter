@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1018081619457",
+    "firebase_url": "https://mybooks-2e1af.firebaseio.com",
+    "project_id": "mybooks-2e1af",
+    "storage_bucket": "mybooks-2e1af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018081619457:android:13e0864c66caf3cf",
+        "android_client_info": {
+          "package_name": "com.gabrielcarvalho.mybooks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1018081619457-06l136kscogb3mqt9587lqkehdf8qmtn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcdb5C9pxKyd8Q75cLGHbrXzURW0ZaGl4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1018081619457-06l136kscogb3mqt9587lqkehdf8qmtn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
